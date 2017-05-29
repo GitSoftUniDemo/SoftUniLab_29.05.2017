@@ -1,0 +1,2 @@
+name = rado
+age = 22
