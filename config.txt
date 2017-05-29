@@ -1,2 +1,2 @@
-name = rado
+name = rado// student 
 age = 22
