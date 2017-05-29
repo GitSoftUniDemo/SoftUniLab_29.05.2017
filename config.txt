@@ -7,3 +7,6 @@ age = 22
 name = Ivelina
 size = 5?
 email = divelina@phys.uni-sofia.bg
+
+Name  - Jooro
+email - jooro.sm@gmail.com
