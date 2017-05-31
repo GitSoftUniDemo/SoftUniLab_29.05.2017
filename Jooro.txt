@@ -1,1 +1,3 @@
-adding some text.
+My name is Joro
+I am from Sofia
+I picked SoftUni because their teaching methods.
